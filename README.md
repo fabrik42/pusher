@@ -24,7 +24,9 @@ var pusher = new Pusher({
 
 var channel = pusher.channel('sync');
 
-channel.trigger('message', function(err, request, response) {
+var data = { name: "Joe", message_count: 23 };
+
+channel.trigger('message', data, function(err, request, response) {
   // do something (this callback is optional)
 });
 
