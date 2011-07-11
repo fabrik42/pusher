@@ -1,0 +1,15 @@
+{
+  "name": "pusher",
+  "description": "A simple node.js publisher lib for pusher.com",
+  "version": "0.0.1",
+  "author": "Christian Bäuerlein <fabrik42@gmail.com>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "~> 0.5.1"
+  },
+  "keywords": ["pusher", "websockets"],
+  "repository": "git://github.com/fabrik42/pusher",
+  "main": "index",
+  "engines": { "node": ">= 0.4.3" }
+}
