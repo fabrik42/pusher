@@ -1,3 +1,15 @@
+# Pusher
+
+Pusher is a simple node.js publisher lib for [pusher.com](http://pusher.com/).
+
+## Installation
+
+Pusher is [available on npm](http://search.npmjs.org/#/pusher).
+
+```
+$ npm install pusher
+```
+
 ## Usage
 
 ```javascript
