@@ -1,7 +1,7 @@
 {
   "name": "pusher",
   "description": "A simple node.js publisher lib for pusher.com",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Christian Bäuerlein <fabrik42@gmail.com>",
   "dependencies": {
   },
