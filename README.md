@@ -1,14 +1,14 @@
+# IMPORTANT: This repository is not maintained anymore!
+
+I decided to not maintain this library anymore and instead, work together with @pusher to create a better, actively maintained node.js library for the pusher service. Also, the npm package `pusher` now points to the new repository.
+We tried to make the new lib backwards compatible to this, so in best case, your existing apps won't even notice. 
+
+Please move on to https://github.com/pusher/pusher-node-server
+
+
 # Pusher
 
 Pusher is a simple node.js publisher lib for [pusher.com](http://pusher.com/).
-
-## Installation
-
-Pusher is [available on npm](http://search.npmjs.org/#/pusher).
-
-```
-$ npm install pusher
-```
 
 ## Usage
 
