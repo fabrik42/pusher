@@ -1,3 +1,5 @@
+---
+
 # IMPORTANT: This repository is not maintained anymore!
 
 I decided to not maintain this library anymore and instead, work together with @pusher to create a better, actively maintained node.js library for the pusher service. Also, the npm package `pusher` now points to the new repository.
@@ -5,6 +7,7 @@ We tried to make the new lib backwards compatible to this, so in best case, your
 
 Please move on to https://github.com/pusher/pusher-node-server
 
+---
 
 # Pusher
 
